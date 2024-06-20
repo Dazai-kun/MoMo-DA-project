@@ -87,7 +87,48 @@ Based on the previous insights, I recommend the following strategies to enhance 
 * Increase female engagement: Targeted strategies to boost female users.
 * Understand and address lower transaction amounts: Investigate reasons and provide incentives for higher transactions.
 
+#### 3. Due to aggressive cashback strageties from other vendor merchants, MoMo is considering deducting a part of revenue to increase cashback for users in all Telco merchants. How would it affect the service? The proposed change is as follows:
 
+| Merchant       | % cashback (current) | % cashback (proposed) |
+| :------------- | -------------------: | --------------------: |
+| Viettel        | 1                    | 2                     |
+| Mobifone       | 1                    | 2.5                   |
+| Vinaphone      | 1                    | 3                     |
+| Vietnamobile   | 1                    | 3                     |
+| Gmobile        | 1                    | 3                     |
 
+To assess the affects of adopting the new cashback rates on MoMo’s Topup service, there are four perspectives to consider, of which I consider the fourth to be of most importance.
+
+**Customer perspective**
+- The increased cashback rates may have positive effects in retaining existing users and encourage both current and new users to be more active in using MoMo’s top-up services.
+- This would likely lead to a rise in transaction volumes, although there is not enough data to predict the quantity. 
+
+**Competitive perspective**
+- By offering higher cashback rates, MoMo can solidify its position in the market due to cashback and discounts being significant drivers of user preference.
+- However, this is a double-edged sword as this could very well turn out to be a lose-lose cashback war for MoMo and its competitors. 
+
+**Strategic perspective**
+- In the short term, increased cashback can rapidly grow the user base. However, MoMo must consider long-term sustainability and whether it can maintain these rates or if they are a temporary measure to gain market share.
+
+**Financial perspective**
+- Doubling or even tripling the cashback rates may bring MoMo under a tremendous financial stress. If not planned out well, it could leave the company’s finance in shambles. However, the following simple calculations have convinced me that the proposed rates are very sustainable:
+    * Cost-Benefit Analysis of Increased Cashback Rates
+
+      **Strategic Justification:**
+      - Higher cashback is a form of marketing expense.
+      - If the additional cashback cost is lower than other acquisition costs (advertising, promotions), it could be more efficient.
+
+      **Profitability Assessment:**
+      - Evaluated by comparing the increased cashback cost against the Customer Lifetime Value (CLV) of new users.
+      - For profitability, the aggregate benefit from new users must offset the additional cashback costs.
+
+      **Calculation Insights:**
+      - To break even, new user count (N) must be ≥ cost/CLV ratio.
+      - Based on my analysis (see [Part-C.sql](https://github.com/Dazai-kun/MoMo-DA-project/blob/main/Part-C.sql)), N needs to exceed 45.8, roughly under half of the current average new users.
+       
+      **Feasibility:**
+      - Given the rapid growth of digital wallet adoption globally and the specific trends in Vietnam, achieving the above amount of average new users per month is, in my opinion and with limited data, completely attainable. 
+
+THE END!
 
 
